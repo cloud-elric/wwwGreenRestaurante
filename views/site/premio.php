@@ -8,12 +8,11 @@ $this->title="Gracias por participar";
 <!-- Premio contenedor -->
 	<div class="js-premio-contenedor" style="text-align:center">
 		<div class="premio js-premio-ajax">
-			Gracias por participar
+			Gracias por participar :)
 		</div>
 		<a class="btn btn-primary" href="<?=Url::base()?>">Finalizar</a>
 	</div>
 	<!-- Fin premio contenedor-->
 
 </div>
-
 <img class="logo" src="<?=Url::base()?>/webAssets/images/logo-fa.png" alt="Fiesta Americana">
