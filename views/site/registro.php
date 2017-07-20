@@ -49,7 +49,7 @@ $this->title="Registro";
 						->dropDownList(['PESCADERÍA DEL ÁNGEL'=>'PESCADERÍA DEL ÁNGEL','MESÓN GAUCHO'=>'MESÓN GAUCHO' ])
 						->label(false);
 				?>
-				
+				<!---->
 				<div class="terminos-wrapper">
 					<div class="check-box js-check-box-aviso"></div>
 					<p class="message">
